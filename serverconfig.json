@@ -1,0 +1,20 @@
+{
+    "1223277026425700382": {
+        "name": "",
+        "welcome": true,
+        "welcomeChannel": "",
+        "memberRoleName": "",
+        "verify": true,
+        "reactionChannel": "",
+        "reactionRoles": true
+    },
+    "537787457123516453": {
+        "name": "",
+        "welcome": false,
+        "welcomeChannel": "",
+        "memberRoleName": "",
+        "verify": false,
+        "reactionChannel": "",
+        "reactionRoles": false
+    }
+}
